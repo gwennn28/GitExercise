@@ -1,0 +1,9 @@
+# C++ build files
+hello
+*.exe
+*.obj
+*.pdb
+*.ilk
+
+# VS Code settings
+.vscode/
